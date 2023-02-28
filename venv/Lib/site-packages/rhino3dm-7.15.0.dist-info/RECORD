@@ -1,0 +1,11 @@
+rhino3dm-7.15.0.dist-info/INSTALLER,sha256=zuuue4knoyJ-UwPPXg8fezS7VCrXJQrAP7zeNuwvFQg,4
+rhino3dm-7.15.0.dist-info/LICENSE,sha256=Wy5OzTCfWgj0ANo4QmoCj9gz50ci2QS_x5ECXJYQc9I,1104
+rhino3dm-7.15.0.dist-info/METADATA,sha256=wCLhlWeLIuDxvZrq1gI0K25zjMNMYhV5xh8KeP09Dsg,996
+rhino3dm-7.15.0.dist-info/RECORD,,
+rhino3dm-7.15.0.dist-info/WHEEL,sha256=W26pYN7HLsBT1jrDSL9udgf_mdNKJmYmL23sIP-FcgM,102
+rhino3dm-7.15.0.dist-info/top_level.txt,sha256=TeHdahSufn5ZzZHnoG6L4YPm3U9UQHwpNnI1mOMvAfk,9
+rhino3dm/__init__.py,sha256=lo1F9sG9BJMuLN_XMMLAY-imdZepjI5tYOAmy5DRgxo,413
+rhino3dm/__init__.pyi,sha256=-wSmHvJu2MqAytEVzbBAQQlpzexH2H3yAgkHflyfhE4,56574
+rhino3dm/__pycache__/__init__.cpython-310.pyc,,
+rhino3dm/_rhino3dm.cp310-win_amd64.pyd,sha256=D9SAT1DPZO7zzspJ8dU_Cq5IGnwOTHXM62kM-QWDPGQ,4666368
+rhino3dm/py.typed,sha256=HuLmVkNu_p4Z7NWxnBqRwLkHKmQ7FX_NttG4bJ3T1xs,24
